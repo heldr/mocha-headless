@@ -15,7 +15,8 @@
   },
   "dependencies": {
     "expect.js": "*",
-    "zombie": "*"
+    "zombie": "*",
+    "mocha": "*"
   },
   "keywords": [
     "browser",
