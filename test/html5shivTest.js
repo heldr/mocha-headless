@@ -4,7 +4,7 @@ var expect = require('expect.js'),
 
 describe('Home page', function() {
 
-    var dom, window, cookies, $, pageContent;
+    var dom, window, cookies, $, pageContent, headers;
 
     beforeEach( function(done) {
 
@@ -15,11 +15,14 @@ describe('Home page', function() {
 
             if( statusCode === 200 ) {
 
-                // emulate window object and
+                // emulate window object
                 window = data.window;
 
                 // catch the page content
                 pageContent = data.response[2];
+
+                // request headers
+                headers = data.response[1];
 
                 // window.document.cookie alternative
                 cookies = data._cookies._cookies;
