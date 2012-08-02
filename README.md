@@ -3,7 +3,7 @@ Mocha-without-browser
 
 How to run [Mocha][mocha] test framework as a front-end tool without a browser
 
-### Before to run
+### Before the first test
 `npm install`
 
 ### Default test spec (written on Makefile)
