@@ -6,9 +6,6 @@
   "directories": {
     "test": "test"
   },
-  "scripts": {
-    "preinstallmocha": "npm install -g mocha"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/heldr/mocha-without-browser.git"
