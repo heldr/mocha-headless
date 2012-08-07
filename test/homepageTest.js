@@ -6,7 +6,7 @@ describe('Home page', function() {
 
     var dom, window, cookies, $, pageContent, headers;
 
-    beforeEach( function(done) {
+    before( function(done) {
 
         browser.visit( baseUrl, function( err, data ) {
             if (err) throw err;
