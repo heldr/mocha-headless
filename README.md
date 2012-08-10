@@ -1,7 +1,7 @@
-Headless Mocha (without browser)
+Mocha Headless
 =====================
 
-A simple Boilerplate to use [Mocha][mocha] test framework as a Headless browser on top of [Zombie][zombie] (FYI it's not a cross-browser approach but helps towards the TDD development process)
+A Boilerplate to use [Mocha][mocha] test framework as a Headless browser on top of [Zombie][zombie] (FYI it's not a cross-browser approach but helps towards the TDD development process)
 
 ### Before the first test
 `npm install`

@@ -1,5 +1,5 @@
 {
-  "name": "headless-mocha (without browser)",
+  "name": "mocha-headless",
   "version": "0.0.1",
   "description": "A simple Boilerplate to use [Mocha][mocha] test framework as a Headless front-end tool",
   "main": "Makefile",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/heldr/headless-mocha.git"
+    "url": "git://github.com/heldr/mocha-headless.git"
   },
   "dependencies": {
     "expect.js": "*",
