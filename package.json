@@ -1,14 +1,14 @@
 {
-  "name": "mocha-without-browser",
+  "name": "headless-mocha (without browser)",
   "version": "0.0.1",
-  "description": "How to run Mocha test framework as a front-end tool without need of browser",
+  "description": "A simple Boilerplate to use [Mocha][mocha] test framework as a Headless front-end tool",
   "main": "Makefile",
   "directories": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/heldr/mocha-without-browser.git"
+    "url": "git://github.com/heldr/headless-mocha.git"
   },
   "dependencies": {
     "expect.js": "*",
