@@ -6,10 +6,10 @@ A simple Boilerplate to use [Mocha][mocha] test framework as a Headless front-en
 ### Before the first test
 `npm install`
 
-### Default test spec (written on Makefile)
+### Default test runner command (written on Makefile)
 `make test`
 
-### Test example
+### Test case example
 Take a look at test/[homepageTest.js][example]
 
 [example]: https://github.com/heldr/mocha-without-browser/blob/master/test/homepageTest.js
