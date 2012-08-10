@@ -12,6 +12,6 @@ A Boilerplate to use [Mocha][mocha] test framework as a Headless browser on top 
 ### Test case example
 Take a look at test/[homepageTest.js][example]
 
-[example]: https://github.com/heldr/mocha-without-browser/blob/master/test/homepageTest.js
+[example]: https://github.com/heldr/mocha-headless/blob/master/test/homepageTest.js
 [mocha]: https://github.com/visionmedia/mocha
 [zombie]: http://zombie.labnotes.org/
